@@ -33,3 +33,28 @@ A decentralized marketplace that connects DJs and producers with industry profes
 
 ### Decentralized Governance and Community Involvement(again this feauture is yet to come, contracts deployed):
 A decentralized governance system that allows users to participate in platform-related decisions, such as proposing new features, voting on competition themes, or selecting featured artists. This system should foster community engagement and ensure that the platform remains user-centric.
+
+## Features
++ Host NFT-based contests: Creators can easily host contests by listing their NFTs and setting contest rules.
++ Participate in contests: Users can browse through active contests and participate in the ones they're interested in.
++ Decentralized storage: All metadata is stored on IPFS via Pinata, ensuring secure and decentralized storage for NFT information.
++ User-friendly interface: RemixChain offers a clean and intuitive interface, making it easy for users to navigate and interact with the platform.
+
+## Installation
+
+Follow these steps to set up the project on your local machine:
+
+### Prerequisites
+
+- Node.js (version 14 or higher)
+- npm (version 7 or higher)
+- MetaMask browser extension
+
+### Clone the repository
+
+```bash
+git clone https://github.com/gaurav-11018/RemixChain.git
+cd RemixChain
+
+
+
