@@ -90,6 +90,19 @@ The project consists of 6 smart contracts, all deployed on the Polygon Mumbai Te
 
 These contracts are responsible for managing the various aspects of the platform, such as token transactions, NFT creation, voting, remix competitions, marketplace, and governance.
 
+
+## Project Screenshots:
+![66](https://user-images.githubusercontent.com/79459872/231204564-2829fb37-b4b8-4edc-be67-4290cab948cd.png)
+
+![4](https://user-images.githubusercontent.com/79459872/231204605-097f4b92-c4a5-458d-af34-30c8a10974a1.png)
+
+![2](https://user-images.githubusercontent.com/79459872/231204657-59cd2d6a-1289-444e-b17c-fb500d8e5fa8.png)
+
+![3](https://user-images.githubusercontent.com/79459872/231204680-ada9c15a-4bde-48c9-bc22-9a5e99f9c7ac.png)
+
+![1](https://user-images.githubusercontent.com/79459872/231204725-b13407a7-2e7a-43e8-882d-c5626d3ff700.png)
+
+
 ## Usage
 After setting up the project, you can interact with the RemixChain platform by hosting contests, participating in contests, and listing NFTs for sale. For more detailed usage instructions, please refer to the demo video provided in the repository.
 
