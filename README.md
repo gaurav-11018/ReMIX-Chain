@@ -89,3 +89,19 @@ The project consists of 6 smart contracts, all deployed on the Polygon Mumbai Te
 - **Governance (Governance.sol)**: `0x2365F50067E612dCb1dc2BFb9b9172DacfA7999D` - This contract implements a decentralized governance system that allows users to participate in platform-related decisions. It fosters community engagement and ensures the platform remains user-centric.
 
 These contracts are responsible for managing the various aspects of the platform, such as token transactions, NFT creation, voting, remix competitions, marketplace, and governance.
+
+## Usage
+After setting up the project, you can interact with the RemixChain platform by hosting contests, participating in contests, and listing NFTs for sale. For more detailed usage instructions, please refer to the demo video provided in the repository.
+
+## Contributing
+We welcome contributions from the community to help make RemixChain even better. If you're interested in contributing, please follow these steps:
+
+1.Fork the project
+2. Create your feature branch (git checkout -b feature/AmazingFeature)
+3.Commit your changes (git commit -m 'Add some AmazingFeature')
+4.Push to the branch (git push origin feature/AmazingFeature)
+5.Open a pull request
+
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
