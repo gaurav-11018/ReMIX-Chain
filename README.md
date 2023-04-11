@@ -55,6 +55,18 @@ Follow these steps to set up the project on your local machine:
 ```bash
 git clone https://github.com/gaurav-11018/RemixChain.git
 cd RemixChain
+```
 
+## Configure environment variables
+Create a .env file in the project root directory and add the following variables:
+```bash
+REACT_APP_INFURA_API_KEY=your_infura_api_key
+REACT_APP_PINATA_API_KEY=your_pinata_api_key
+REACT_APP_PINATA_API_SECRET=your_pinata_api_secret
+```
 
-
+## Start the development server
+```bash
+npm start
+```
+The project will now be running on http://localhost:3000/. Open your browser and visit the URL to see the application.
