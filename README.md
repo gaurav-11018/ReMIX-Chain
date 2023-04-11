@@ -70,3 +70,22 @@ REACT_APP_PINATA_API_SECRET=your_pinata_api_secret
 npm start
 ```
 The project will now be running on http://localhost:3000/. Open your browser and visit the URL to see the application.
+
+
+## Contracts
+
+The project consists of 6 smart contracts, all deployed on the Polygon Mumbai Testnet. The addresses and explanations for these contracts are as follows:
+
+- **Token (Token.sol)**: `0x32dAC59D250f097B1654617Aa9bf0F8a7bd28935` - This contract manages the platform's native token, which is used to incentivize participation and engagement. It's an ERC20-compliant token with standard functionalities like transfer, approve, and allowance.
+
+- **NFT (NFT.sol)**: `0xB9Be123113d8449D30703Dd1C09b6734aB1BF280` - This contract is responsible for creating and managing NFTs representing remixes and other digital collectibles. It's an ERC721-compliant contract that allows for the minting, transferring, and querying of NFTs.
+
+- **Voting (Voting.sol)**: `0xCC7945492A22DC3050837a0E8497D7b48b4fbD63` - This contract handles the voting process for remix competitions. It uses smart contracts to ensure secure and transparent voting, as well as the distribution of tokenized rewards to winners.
+
+- **RemixCompetition (RemixCompetition.sol)**: `0x32ef5b0D184F6086d9a88a92b4244d64c91Fe49B` - This contract manages the remix competitions, allowing artists and labels to post competitions, provide stems, track information, and submission guidelines. It also enables DJs and producers to participate in competitions and submit their remixes.
+
+- **Marketplace (Marketplace.sol)**: `0x09CC6327074BaddC76aE6239033b57DEd67e31E0` - This contract powers a decentralized marketplace where users can offer and purchase music production services. It connects DJs, producers, and industry professionals, facilitating collaboration and negotiation through smart contracts.
+
+- **Governance (Governance.sol)**: `0x2365F50067E612dCb1dc2BFb9b9172DacfA7999D` - This contract implements a decentralized governance system that allows users to participate in platform-related decisions. It fosters community engagement and ensures the platform remains user-centric.
+
+These contracts are responsible for managing the various aspects of the platform, such as token transactions, NFT creation, voting, remix competitions, marketplace, and governance.
