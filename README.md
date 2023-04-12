@@ -91,6 +91,14 @@ The project consists of 6 smart contracts, all deployed on the Polygon Mumbai Te
 These contracts are responsible for managing the various aspects of the platform, such as token transactions, NFT creation, voting, remix competitions, marketplace, and governance.
 
 
+## Important links:
+
+Video demo: https://youtu.be/9SIfJlXbnZI
+
+PPT PDF: [ReMIX-Chain.pdf](https://github.com/gaurav-11018/ReMIX-Chain/files/11210927/ReMIX-Chain.pdf)
+
+
+
 ## Project Screenshots:
 ![66](https://user-images.githubusercontent.com/79459872/231204564-2829fb37-b4b8-4edc-be67-4290cab948cd.png)
 
