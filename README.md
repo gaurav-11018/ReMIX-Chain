@@ -8,7 +8,7 @@ GOVERNANCE             = > 0x2365F50067E612dCb1dc2BFb9b9172DacfA7999D
 -->
 
 # RemixChain - A Decentralized Platform for Remix Competitions and Collaborative Music Production
-RemixChain is a decentralized platform designed to host remix competitions for emerging DJs and electronic music producers. The platform aims to foster collaboration, creativity, and rewards participants with tokenized incentives and NFTs. Built on Ethereum and leveraging IPFS for metadata storage, RemixChain provides a seamless and user-friendly experience for artists, labels, DJs, and producers.
+RemixChain is a decentralized platform designed to host remix competitions for emerging DJs and electronic music producers. The platform aims to foster collaboration, creativity, and rewards participants with tokenized incentives and NFTs. Built on Ethereum and polygon leveraging IPFS for metadata storage, RemixChain provides a seamless and user-friendly experience for artists, labels, DJs, and producers.
 
 
 ## Important links:
